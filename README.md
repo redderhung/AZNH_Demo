@@ -6,7 +6,7 @@ edit ./config.js
 
 
 download `google-services.json` from firebase project
-move to `.tmpn_poc/andorid/app/google-services.json`
+move to `./tmpn_poc/andorid/app/google-services.json`
 
 run react native on andorid:
 `cd ./tmpn_poc`
